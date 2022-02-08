@@ -7,6 +7,7 @@ Your Name, yourcontact@unl.edu
 ## Abstract
 
 I have two ideas. 
+
 Idea 1: Take cats/dogs from humane societies and to create names and blurbs about them. There are many creative and fun names out there these days. I would them make cute little illustrations about the pets up for adoption. 
 
 Idea 2: Makeup tutorials. And then trying them out on myself. I have a very very limited skill with makeup so this could be fun, however could prove hard to find written instructions.
