@@ -1,8 +1,7 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Olivia Benson, obenson2@huskers.unl.edu
 
-(Your teammate's contact info, if appropriate)
 
 ## Abstract
 
