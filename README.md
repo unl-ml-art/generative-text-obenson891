@@ -5,7 +5,7 @@ Olivia Benson, obenson2@huskers.unl.edu
 
 ## Abstract
 
-I have two ideas. 
+I have two ideas. bee bee boo boo
 
 Idea 1: Take cats/dogs from humane societies and to create names and blurbs about them. There are many creative and fun names out there these days. I would them make cute little illustrations about the pets up for adoption. 
 
