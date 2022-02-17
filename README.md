@@ -9,13 +9,11 @@ I have two ideas. bee bee boo boo
 
 Idea 1: Take cats/dogs from humane societies and to create names and blurbs about them. There are many creative and fun names out there these days. I would them make cute little illustrations about the pets up for adoption. 
 
-Idea 2: Makeup tutorials. And then trying them out on myself. I have a very very limited skill with makeup so this could be fun, however could prove hard to find written instructions.
-
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
 - trained models
-- training data (or link to training data). what is your corpus?
+- training data (or link to training data). what is your corpus? describe training data and where you got it etc.
 
 ## Code
 
@@ -26,6 +24,7 @@ Your code for generating your project:
 ## Results
 
 - Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- describe what you've done, such as changing prompt or temperature and results
 
 ## Technical Notes
 
