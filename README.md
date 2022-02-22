@@ -4,12 +4,12 @@ Olivia Benson, obenson2@huskers.unl.edu
 
 ## Abstract
 
-The idea for this project was to take descriptions from humane society adoption sites and have the computer generate it's own descriptions of cats. I could then draw these new versions of cats. 
+The idea for this project was to take descriptions from humane society adoption sites and have the computer generate its own descriptions of cats. I could then draw these new versions of cats. 
 
 ## Model/Data
 
-I trained this model on a comilation of descriptions of cats fro mthe site https://www.petfinder.com/ 
-Along with the description, I indcluded Name, Age, Size and Color/Pattern. 
+I trained this model on a compilation of descriptions of cats from the site https://www.petfinder.com/ 
+Along with the description, I included Name, Age, Size, and Color/Pattern. 
 
 Link to training data:
 generative-text-obenson891/cats.txt 
